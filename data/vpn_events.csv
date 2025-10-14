@@ -1,0 +1,19 @@
+event_type,country,date,description,impact_score
+employment,JP,2023-10-14 22:02:22.837416,Major industry changes affecting employment in JP,3
+employment,FR,2023-10-14 22:02:22.837416,Major industry changes affecting employment in FR,3
+employment,US,2023-10-14 22:02:22.837416,Major industry changes affecting employment in US,3
+employment,DE,2024-09-28 22:02:22.837416,Major industry changes affecting employment in DE,3
+employment,US,2024-09-28 22:02:22.837416,Major industry changes affecting employment in US,3
+employment,UK,2023-06-02 22:02:22.837416,Significant layoffs in tech sector in UK,4
+regulatory,AU,2024-08-24 22:02:22.837416,Mandatory data retention for VPN providers in AU,3
+regulatory,DE,2024-04-24 22:02:22.837416,Required registration for VPN services in DE,3
+political,US,2024-08-01 22:02:22.837416,Major Referendum in US,4
+political,DE,2023-12-23 22:02:22.837416,Major Referendum in DE,4
+political,FR,2024-04-08 22:02:22.837416,Election in FR,4
+political,JP,2024-07-19 22:02:22.837416,Major Referendum in JP,4
+political,BR,2023-12-11 22:02:22.837416,Major Referendum in BR,4
+political,CA,2024-02-11 22:02:22.837416,Major Referendum in CA,4
+sporting,global,2024-12-11 22:02:22.837416,World Cup,10
+sporting,global,2024-01-11 22:02:22.837416,Olympics,5
+sporting,global,2023-07-30 22:02:22.837416,Super Bowl,8
+sporting,global,2024-03-20 22:02:22.837416,UEFA Champions League,8
